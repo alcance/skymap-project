@@ -1,9 +1,9 @@
 # Repositories
 - Skymap **SERVER**: [https://github.com/alcance/skymap-server/tree/master] 
 - Skymap **CLIENT**: [https://github.com/alcance/skymap-client/tree/master] 
-```
-[lick here to view the full overview](https://github.com/alcance/skymap-project/blob/master/README.md)
-```
+
+View Notes, Mockups, Screenshots and more... [Click here to view the full overview](https://github.com/alcance/skymap-project/blob/master/README.md)
+
 
 # Overview
 * Show user a live map of **locations** fetched from a external store.
