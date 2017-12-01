@@ -2,7 +2,7 @@
 - Skymap **SERVER**: [https://github.com/alcance/skymap-server/tree/master] 
 - Skymap **CLIENT**: [https://github.com/alcance/skymap-client/tree/master] 
 ```
-(Click here to view the full overview)[https://github.com/alcance/skymap-project/blob/master/README.md]
+[lick here to view the full overview](https://github.com/alcance/skymap-project/blob/master/README.md)
 ```
 
 # Overview
