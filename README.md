@@ -17,7 +17,7 @@
 ![Alt text](assets/diagram.png?raw=true "Diagram")
 
 # Mockup
-
+![Alt text](assets/balsamiq.png?raw=true "Diagram")
 
 # Technology Stack
 * Node
